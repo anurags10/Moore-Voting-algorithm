@@ -1,0 +1,10 @@
+for(int num: nums){
+            if (c == 0){
+                element = num;
+            }
+            if(num == element){
+                 c+=1;
+             }
+            else c-=1;
+             
+        }
